@@ -5,10 +5,6 @@
 >
 > **最后更新：2025年4月**
 
-[![GitHub stars](https://img.shields.io/github/stars/your-username/claude-chinese.svg)](https://github.com/your-username/claude-chinese/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/claude-chinese.svg)](https://github.com/your-username/claude-chinese/network)
-[![GitHub issues](https://img.shields.io/github/issues/your-username/claude-chinese.svg)](https://github.com/your-username/claude-chinese/issues)
-[![GitHub license](https://img.shields.io/github/license/your-username/claude-chinese.svg)](https://github.com/your-username/claude-chinese/blob/main/LICENSE)
 
 ## 🔍 Claude 3.7中文版概述
 
