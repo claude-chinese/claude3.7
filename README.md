@@ -2,7 +2,7 @@ Claude 3.7中文版 | 最佳国内使用指南与镜像站点(2025年更新)
 !Claude 3.7 Banner
 > 本指南提供Claude 3.7完整中文使用方法和国内可靠镜像。专业支持代码开发、文案创作、数据分析，无需科学上网即可体验。包含实用提示词和应用案例，新手也能快速上手！
 >
-> 最后更新：2025年1月
+> 最后更新：2025年4月
 ![GitHub stars](https://img.shields.io/github/stars/your-username/claude-chinese.svg)
 ![GitHub forks](https://img.shields.io/github/forks/your-username/claude-chinese.svg)
 ![GitHub issues](https://img.shields.io/github/issues/your-username/claude-chinese.svg)
